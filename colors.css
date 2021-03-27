@@ -21,7 +21,6 @@ body{
 }
 #box2 {
     width: 80%;
-    border: 0px solid hotpink;
     padding: 50px;
     margin: 20px;
     height: 2px;
@@ -46,7 +45,6 @@ fieldset{
 }
 .box4{
     width: 90%;
-    border: 2px solid hotpink;
     padding: 0px;
     margin: 0px;
     height: 80px;
