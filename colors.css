@@ -1,0 +1,100 @@
+body{
+    background-image: url("image/colorpic.png");
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-position: top center;
+    align-content: center;
+    font-family: sans-serif;
+}
+.halfScreen {
+    display:block;
+}
+#box1 {
+    width: 80%;
+    border: 15px ;
+    padding: 50px;
+    margin: 20px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#box2 {
+    width: 80%;
+    border: 0px solid hotpink;
+    padding: 50px;
+    margin: 20px;
+    height: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#box3 {
+    width: 80%;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+label{
+    color:hotpink;
+}
+fieldset{
+    border: 0;
+}
+.box4{
+    width: 90%;
+    border: 2px solid hotpink;
+    padding: 0px;
+    margin: 0px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}   
+#monocromatica{
+    display:flex;
+    justify-content: center;
+}
+#yellow1{
+    width:  90px;
+    background-color: #e6dd80;
+    height: 60px;
+}
+#yellow2{
+    width:  90px;
+    background-color: #eae295;
+    height: 60px;
+}
+#yellow3{
+    width:  90px;
+    background-color: #eee8aa;
+    height: 60px;
+}
+#yellow4{
+    width:  90px;
+    background-color: #f2eebf;
+    height: 60px;
+}
+#yellow5{
+    width:  90px;
+    background-color: #f7f4d5;
+    height: 60px;
+}
+#tetra1{
+    width:  90px;
+    background-color: #eeaab0;
+    height: 60px;
+}
+#tetra2{
+    width:  90px;
+    background-color: #aaeee8;
+    height: 60px;
+}
+#tetra3{
+    width:  90px;
+    background-color: #aab0ee;
+    height: 60px;
+}
